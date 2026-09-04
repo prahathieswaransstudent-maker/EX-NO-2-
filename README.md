@@ -6,6 +6,10 @@ To write a C program to implement the Playfair Substitution technique.
 
 ---
 
+#### Name: **Prahathieswaran S** 
+#### Reg No: **212225240107**
+
+
 
 ## DESCRIPTION
 
